@@ -1,16 +1,39 @@
-# food_logger
+# 🍱 Food Logger App
 
-A new Flutter project.
+A Flutter-based mobile app to **track daily meals and calories**. Users can **upload meal images** for AI-based food detection or **manually enter food items** to get detailed nutritional info. All data is stored in **Firebase Firestore** and can be viewed as a history of meals per day.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Upload images of meals for AI food recognition
+- Get nutrition and calorie info via generative AI
+- Manual food entry support
+- Delete individual food items or full meals
+- Daily meal history with calorie breakdown
+- Firebase integration for storage and sync
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Tech Stack
+
+- **Flutter** – Cross-platform mobile app development
+
+---
+
+## 🔧 Tools & Services Used
+
+- **YOLOv8** – For food object detection in uploaded images (custom trained)
+- **Render** – To deploy Python Fast APIs for detection and nutrition description.
+- **Together.ai** – Used for AI-generated nutrition descriptions
+- **Firebase Firestore** – Stores user meals, calories, and history
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo then,
+   ```bash
+   cd food_logger
+   flutter pub get
+   flutter run
