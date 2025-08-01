@@ -31,18 +31,28 @@ A Flutter-based mobile app to **track daily meals and calories**. Users can **up
 ---
 ## 📸 Screenshots
 
-### Home Page
-![Home](screenshots/home.png)
+<table>
+  <tr>
+    <td align="center"><strong>Home Page</strong></td>
+    <td align="center"><strong>Upload Image</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.png" width="250"/></td>
+    <td><img src="screenshots/image_upload.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Manual Entry</strong></td>
+    <td align="center"><strong>History Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/manual_entry.png" width="250"/></td>
+    <td><img src="screenshots/history.png" width="250"/></td>
+  </tr>
+</table>
 
-### Upload Image
-![Upload](screenshots/image_upload.png)
 
-## Manual Entry
-![Manual](screenshots/manual_entry.png)
-
-### History Page
-![History](screenshots/history.png)
-## 🚀 Getting Started
+---
+## How to Run
 
 Clone the repo then,
    ```bash
