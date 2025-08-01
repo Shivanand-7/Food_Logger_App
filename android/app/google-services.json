@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650738470325",
+    "project_id": "food-logger-b5ceb",
+    "storage_bucket": "food-logger-b5ceb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650738470325:android:5fa35fab0e46561894ddfc",
+        "android_client_info": {
+          "package_name": "com.example.food_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApi95qbG-osRtqtzv8OoTPRoeP9BoG_gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
