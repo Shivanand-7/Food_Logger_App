@@ -29,7 +29,19 @@ A Flutter-based mobile app to **track daily meals and calories**. Users can **up
 - **Firebase Firestore** – Stores user meals, calories, and history
 
 ---
+## 📸 Screenshots
 
+### Home Page
+![Home](screenshots/home.png)
+
+### Upload Image
+![Upload](screenshots/image_upload.png)
+
+## Manual Entry
+![Manual](screenshots/manual_entry.png)
+
+### History Page
+![History](screenshots/history.png)
 ## 🚀 Getting Started
 
 Clone the repo then,
